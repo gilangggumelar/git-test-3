@@ -10,5 +10,7 @@
     
 </body>
     <h1>Hello World</h1>
-    <p>Cobaajfjsfsjfjsfjsfjsf</p>
+    <p>Contoh paragraf</p>
+    <p>Contoh paragraf 2</p>
+    
 </html>
